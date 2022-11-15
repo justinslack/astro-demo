@@ -1,0 +1,10 @@
+/* Add global styles, e.g. font-face, variables */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: system-ui, sans-serif;
+  background-color: #F6F6F6;
+}
